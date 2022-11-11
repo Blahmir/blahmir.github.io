@@ -1,19 +1,19 @@
 const siteMetadata = {
-  title: 'Raphaël Chelly - Digital marketing project manager',
-  author: 'Raphaël Chelly',
-  headerTitle: 'Raphaël Chelly',
-  description: 'Portfolio of a digital marketing guy who codes a bit.',
+  title: 'Amir Abdurazak - Software Engineer/Student/Entrepreneur',
+  author: 'Amir Abdurazak',
+  headerTitle: 'Amir Abdurazak',
+  description: 'My personal website and portfolio, much thanks to Raphaël Chelly for the base format!.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.raphaelchelly.com/',
-  siteRepo: 'https://github.com/raphaelchelly/raph_www',
+  siteRepo: 'https://github.com/Blahmir/personal-website',
   siteLogo: '/static/images/raph-logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'hi@raphaelchelly.com',
-  github: 'https://github.com/raphaelchelly',
-  twitter: 'https://twitter.com/raphael_chelly',
-  linkedin: 'https://www.linkedin.com/in/raphaelchelly',
+  email: 'amirabdurazak@gmail.com',
+  github: 'https://github.com/Blahmir',
+  twitter: 'https://twitter.com/',
+  linkedin: 'https://www.linkedin.com/in/amirabdurazak',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
