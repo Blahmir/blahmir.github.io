@@ -6,7 +6,7 @@ module.exports = {
     optimizeUniversalDefaults: true,
   },
   content: [
-    './docs/**/*.js',
+    './pages/**/*.js',
     './components/**/*.js',
     './layouts/**/*.js',
     './lib/**/*.js',
