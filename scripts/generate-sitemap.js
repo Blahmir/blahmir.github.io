@@ -7,14 +7,14 @@ const siteMetadata = require('../data/siteMetadata')
 ;(async () => {
   const prettierConfig = await prettier.resolveConfig('./.prettierrc.js')
   const pages = await globby([
-    'pages/*.js',
-    'pages/*.tsx',
+    'docs/*.js',
+    'docs/*.tsx',
     'data/blog/**/*.mdx',
     'data/blog/**/*.md',
     'public/tags/**/*.xml',
-    '!pages/_*.js',
-    '!pages/_*.tsx',
-    '!pages/api',
+    '!docs/_*.js',
+    '!docs/_*.tsx',
+    '!docs/api',
   ])
 
   const sitemap = `
@@ -34,7 +34,7 @@ const siteMetadata = require('../data/siteMetadata')
                   }
                 }
                 const path = page
-                  .replace('pages/', '/')
+                  .replace('docs/', '/')
                   .replace('data/blog', '/blog')
                   .replace('public/', '/')
                   .replace('.js', '')
@@ -44,7 +44,7 @@ const siteMetadata = require('../data/siteMetadata')
                   .replace('/feed.xml', '')
                 const route = path === '/index' ? '' : path
 
-                if (page.search('pages/404.') > -1 || page.search(`pages/blog/[...slug].`) > -1) {
+                if (page.search('docs/404.') > -1 || page.search(`docs/blog/[...slug].`) > -1) {
                   return
                 }
                 return `
