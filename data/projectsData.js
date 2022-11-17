@@ -1,6 +1,6 @@
 const projectsData = [
   {
-    title: 'Fabrilab',
+    title: 'TEST',
     description: `Creation of a web design agency.`,
     imgSrc: '/static/images/projects/fabrilab.png',
     href: '/blog/projects/fabrilab-web-agency',

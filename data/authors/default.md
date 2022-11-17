@@ -4,7 +4,7 @@ avatar: /static/images/avatar.jpg
 occupation: Marketing Project Manager
 company: Octopia
 email: amirabdurazak
-twitter: https://twitter.com/raphael_chelly
+twitter: https://twitter.com/
 linkedin: https://www.linkedin.com/raphael.chelly
 github: https://github.com/raphaelchelly
 ---
