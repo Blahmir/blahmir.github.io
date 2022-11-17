@@ -55,8 +55,8 @@ const securityHeaders = [
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
   images: {
-    loader: "akamai",
-    path: "",
+    loader: 'akamai',
+    path: '',
   },
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   eslint: {
