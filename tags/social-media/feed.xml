@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Amir Abdurazak - Software Engineer/Student/Entrepreneur</title>
+      <link>  https://blahmir.github.io//blog</link>
+      <description>My personal website and portfolio, much thanks to Raphaël Chelly for the base format!.</description>
+      <language>en-us</language>
+      <managingEditor>amirabdurazak@gmail.com (Amir Abdurazak)</managingEditor>
+      <webMaster>amirabdurazak@gmail.com (Amir Abdurazak)</webMaster>
+      <lastBuildDate>Mon, 01 Oct 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="  https://blahmir.github.io//tags/social-media/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>  https://blahmir.github.io//blog/projects/havana-club-x-vald</guid>
+    <title>Havana Club x VALD</title>
+    <link>  https://blahmir.github.io//blog/projects/havana-club-x-vald</link>
+    <description>In 2018 as part of its new brand strategy, Havana Club made a collaboration with a French artist: VALD.</description>
+    <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+    <author>amirabdurazak@gmail.com (Amir Abdurazak)</author>
+    <category>Work Projects</category><category>Collaboration</category><category>Marketing</category><category>Social Media</category>
+  </item>
+
+    </channel>
+  </rss>
