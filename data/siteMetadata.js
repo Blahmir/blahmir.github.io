@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'My personal website and portfolio, much thanks to Raphaël Chelly for the base format!.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.raphaelchelly.com/',
+  siteUrl: '  https://blahmir.github.io/',
   siteRepo: 'https://github.com/Blahmir/personal-website',
   siteLogo: '/static/images/raph-logo.png',
   image: '/static/images/avatar.jpg',
