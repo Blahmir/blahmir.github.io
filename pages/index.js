@@ -34,7 +34,7 @@ export default function Home({ posts }) {
             </h2>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
-            <Image
+            <img
               src="/static/images/profile.jpg"
               alt="avatar"
               width="200px"
@@ -195,7 +195,7 @@ export default function Home({ posts }) {
               rel="noreferrer"
               target="_blank"
             >
-              <Image
+              <img
                 src="/static/images/workxp/cra-logo.jpg"
                 alt="CRA"
                 width="50px"
@@ -228,7 +228,7 @@ export default function Home({ posts }) {
               rel="noreferrer"
               target="_blank"
             >
-              <Image
+              <img
                 src="/static/images/workxp/lineupapp.jpg"
                 alt="Lineup"
                 width="50px"

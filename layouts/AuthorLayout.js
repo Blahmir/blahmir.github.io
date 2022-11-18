@@ -18,7 +18,7 @@ export default function AuthorLayout({ children, frontMatter }) {
         <div className="items-start">
           <div className="darK:bg-slate-100 flex flex-col items-center rounded-lg bg-slate-700 bg-opacity-10 p-2 text-center md:flex-row">
             <div>
-              <Image
+              <img
                 src="/static/images/avatar.jpg"
                 alt="avatar"
                 width="150px"
