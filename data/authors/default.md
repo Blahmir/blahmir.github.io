@@ -1,12 +1,12 @@
 ---
 name: Amir Abdurazak
 avatar: /static/images/avatar.jpg
-occupation: Marketing Project Manager
-company: Octopia
+occupation: Junior Analyst/Cloud Developer
+company: Canadian Revenue Agency (CRA)
 email: amirabdurazak
 twitter: https://twitter.com/
-linkedin: https://www.linkedin.com/raphael.chelly
-github: https://github.com/raphaelchelly
+linkedin: https://www.linkedin.com/amirabdurazak
+github: https://github.com/blahmir
 ---
 
 Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
