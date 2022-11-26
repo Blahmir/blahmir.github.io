@@ -1,6 +1,6 @@
 ![raph-www-banner](/public/static/images/twitter-card.png)
 
-# Raphael personal website (https://raphaelchelly.com)
+# Amir's personal website (https://blahmir.github.io)
 
 Welcome to my personal website and portfolio. 🛸
 
