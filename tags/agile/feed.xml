@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Amir Abdurazak - Software Engineer/Student/Entrepreneur</title>
+      <link>  https://blahmir.github.io//blog</link>
+      <description>My personal website and portfolio, much thanks to Raphaël Chelly for the base format!.</description>
+      <language>en-us</language>
+      <managingEditor>amirabdurazak@gmail.com (Amir Abdurazak)</managingEditor>
+      <webMaster>amirabdurazak@gmail.com (Amir Abdurazak)</webMaster>
+      <lastBuildDate>Mon, 28 Nov 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="  https://blahmir.github.io//tags/agile/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>  https://blahmir.github.io//blog/projects/gym-connect</guid>
+    <title>Gym Connect, Concurrent Fitness Centre System</title>
+    <link>  https://blahmir.github.io//blog/projects/gym-connect</link>
+    <description>Created, built, and developed a web-based concurrent fitness centre monitoring system</description>
+    <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+    <author>amirabdurazak@gmail.com (Amir Abdurazak)</author>
+    <category>School Projects</category><category>Agile</category><category>QNX</category><category>Javascript</category>
+  </item>
+
+  <item>
+    <guid>  https://blahmir.github.io//blog/projects/oasis-pro</guid>
+    <title>OASIS PRO, CES Stimulation Medical Device</title>
+    <link>  https://blahmir.github.io//blog/projects/oasis-pro</link>
+    <description>In 2022, my group members and I created a simulated stimulation medical device with QT. Working together we were able to implement all its features and displayed it through a graphical interface...</description>
+    <pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate>
+    <author>amirabdurazak@gmail.com (Amir Abdurazak)</author>
+    <category>School Projects</category><category>Agile</category><category>QT</category>
+  </item>
+
+    </channel>
+  </rss>
