@@ -1,9 +1,9 @@
 const projectsData = [
   {
-    title: 'TEST',
-    description: `Creation of a web design agency.`,
-    imgSrc: '/static/images/projects/fabrilab.png',
-    href: '/blog/projects/fabrilab-web-agency',
+    title: 'OASIS PRO',
+    description: `CES Stimulation Medical Device.`,
+    imgSrc: '/static/images/projects/OASIS-pro-device.png',
+    href: '/blog/projects/oasis-pro',
   },
   {
     title: 'Toy Surfboards',
