@@ -188,7 +188,7 @@ export default function Home({ posts }) {
       <div className="content mt-12 sm:mt-24">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Experiences</h2>
         <ul className="mt-8">
-          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+        <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
               href="https://www.canada.ca/en/revenue-agency.html"
@@ -209,14 +209,14 @@ export default function Home({ posts }) {
                   Canadian Revenue Agency
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  Winter 2020
+                  Fall 2022
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
                   Today
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Junior Analyst/ Cloud Developer
+                  Cloud Developer
                 </span>
               </p>
             </div>
@@ -252,6 +252,40 @@ export default function Home({ posts }) {
               </p>
             </div>
           </li>
+          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+            <a
+              className="link focusable font-medium text-zinc-800 dark:text-white"
+              href="https://www.canada.ca/en/revenue-agency.html"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img
+                src="/static/images/workxp/cra-logo.jpg"
+                alt="CRA"
+                width="50px"
+                height="50px"
+                className="rounded-md"
+              />
+            </a>
+            <div className="flex min-w-0 flex-col justify-center">
+              <p className="mb-1 flex items-center">
+                <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
+                  Canadian Revenue Agency
+                </span>
+                <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
+                  Winter 2020
+                  <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
+                  Summer 2022
+                </span>
+              </p>
+              <p className="flex items-center truncate">
+                <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
+                  Junior Analyst
+                </span>
+              </p>
+            </div>
+          </li>
+  
         </ul>
       </div>
 
