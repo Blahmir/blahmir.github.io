@@ -21,7 +21,7 @@
   </url>
 
   <url>
-    <loc> https://blahmir.github.io//blog/from-wordpress-to-nextjs</loc>
+    <loc> https://blahmir.github.io//blog/why-every-programmer-needs-a-personal-website</loc>
   </url>
 
   <url>
@@ -62,9 +62,5 @@
 
   <url>
     <loc> https://blahmir.github.io//tags/website</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/wordpress</loc>
   </url>
 </urlset>
