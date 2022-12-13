@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://raphaelchelly.com/sitemap.xml
+Sitemap: https://blahmir.github.io/sitemap.xml
