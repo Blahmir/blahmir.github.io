@@ -9,108 +9,92 @@ linkedin: https://www.linkedin.com/amirabdurazak
 github: https://github.com/blahmir
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+Graduated with **Honours in Computer Science** at Carleton University, I am passionate about **Internet Security, FINTECH (Financial technology), Web-App Development, Web 3.0 & Cryptocurrency.** A creative, versatile, and goal-driven individual with an outstanding understanding of code and algorithms, **confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key technical and interpersonal skills that I have developed through my professional experiences.
 
 - [💼 Experience](#experience)
-- [🧑🏻‍💻 Side Project](#side-project)
+- [🧑🏻‍💻 Project](#projects)
 - [🎓 Education](#education)
 - [🤹🏼‍♂️ Skills](#skills)
 - [🏐 Interests](#interests)
+  <br />
 
-## Experience
+# Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Cloud Developer @**[Canadian Revenue Agency](https://www.canada.ca/en/revenue-agency.html)**
 
-`Oct 2021 - Today`
+`Sep 2022 - Today`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+Software engineer on a project to **migrate legacy software to the cloud/integrate ML capabilities.** Responsible for identifying key components of legacy software and developing plan to move to **cloud environment**
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+### Front-End React.JS Developer @[Lineup App](https://www.lineupappq.com/)
 
-`Sept 2019 - Sept 2020`
+`May 2022 - Sept 2022`
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
+Assisting in front-end development with a **remote agile team**, meeting on Google Meets. Completing features given to me from senior team directly on the application.
 
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
+### Junior Analyst @[Canadian Revenue Agency](https://www.canada.ca/en/revenue-agency.html)
 
 `Jan 2019 - Jul 2019`
 
 As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
+<br />
 
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
+# Projects
 
-`Jul 2018 - Jan 2019`
+### Project Lead [OASIS PRO](./blog/projects/oasis-pro)
 
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
+`Jan 2022 - May 2022`
 
-## Side Project
+Created medical device simulator that helps promotes good mental health and wellness through CES pulses.
 
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
+- Frameworks : **C++ - QT Framework**
+- Design : **Agile Design, UML Diagrams**
 
-`Sept 2017 - Today`
+### Project Developer [GYM Connect](./blog/projects/gym-connect)
 
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
+`Sept 2022 - Dec 2022`
 
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+Web-based concurrent fitness centre sensor & facility monitoring system.
 
-## Education
+- Frameworks : **C - QNX Neutrino, Javascript (React.JS, Node.JS)**
+- Design : **Agile Design, UML Diagrams**
+  <br />
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+# Education
 
-`Sept 2016 - Sept 2020`
+### Honours Computer Science & Cyber Security @[Carleton University ](https://www.excelia-group.com)
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+`Sept 2018 - Apr 2023 (Expected)`
 
-## Skills
+Obtained B.C.S. Honours in Computer Science (Computer & Internet Security Stream)
+GPA: 10.02/12 (A-)
+<br />
 
-### Hard Skills:
+# Skills
 
-- 🇬🇧 English
-- 🇪🇸 Spanish
-- 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
-- 💻 Digital Marketing
-- 🎨 Adobe CC
-- 🔍 SEO
-- 📊 Microsoft 365
-- 📨 E-CRM Management
-- 📱 Social Media Management
+## Hard Skills:
 
-### Soft Skills:
+- 💻 **Front-end : JavaScript, TypeScript, HTML, CSS**
+- 🖥️ **Object-Oriented : C++, Python, C#, Java**
+- 🖳 **Database : NoSQL, PostgreSQL, MongoDB, Aginity Workbench**
+- 📚 **Frameworks : React.JS, QT.io, QNX Neutrino**
+- 🔍 **Algorithms and Data Structures**
+- 📊 **DOM**
+- 📑 **Agile Methodologies & SDLC**
+- 📝 **Object-Oriented Programming**
+- 🌐 **Cryptography**
 
-- 🎨 Creative
+## Soft Skills:
+
+- 🧑‍💼 Hard-Working
 - 📚 Curious
-- 🤝🏼 Team Spirit
+- 🎨 Creative
+- 🤝🏼 Team Oriented
+  <br />
 
-## Interests
+# Interests
 
-### Sports:
-
-- 🏄🏽‍♂️ Bodyboarding & Surfing
-- 🏊🏼‍♂️ Swimming
-
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
-
-### Others:
-
-- 🗺️ Discovery and Traveling
-- 📷 Photography
 - 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
-
-### Humanitarian:
-
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
-
-### Other Experiences:
-
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
+- ⛹️ Sports
+- ♟️ Chess
+- 🗺️ Traveling
