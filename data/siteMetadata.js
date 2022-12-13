@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: '  https://blahmir.github.io/',
   siteRepo: 'https://github.com/Blahmir/personal-website',
   siteLogo: '/static/images/amir-logo.png',
-  image: '/static/images/avatar.jpg',
+  image: '/static/images/myAvatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'amirabdurazak@gmail.com',
   github: 'https://github.com/Blahmir',

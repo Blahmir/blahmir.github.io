@@ -19,7 +19,7 @@ export default function AuthorLayout({ children, frontMatter }) {
           <div className="darK:bg-slate-100 flex flex-col items-center rounded-lg bg-slate-700 bg-opacity-10 p-2 text-center md:flex-row">
             <div>
               <img
-                src="/static/images/avatar.jpg"
+                src="/static/images/myAvatar.png"
                 alt="avatar"
                 width="150px"
                 height="150px"
