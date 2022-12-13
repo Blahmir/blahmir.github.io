@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/amirabdurazak
 github: https://github.com/blahmir
 ---
 
-Graduated with **Honours in Computer Science** at Carleton University, I am passionate about **Internet Security, FINTECH (Financial technology), Web-App Development, Web 3.0 & Cryptocurrency.** A creative, versatile, and goal-driven individual with an outstanding understanding of code and algorithms, **confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key technical and interpersonal skills that I have developed through my professional experiences.
+Graduated with **Honours in Computer Science** at Carleton University, I am passionate about **Internet Security, FINTECH (Financial technology), Web-App Development, Web 3.0 & Cryptocurrency.** A creative, versatile, and goal-driven individual with an outstanding understanding of code and algorithms, confident in my ability to tackle **new missions.** Organized and rigorous, I possess a range of key technical and interpersonal skills that I have developed through my professional experiences.
 
 - [💼 Experience](#experience)
 - [🧑🏻‍💻 Project](#projects)
@@ -72,7 +72,7 @@ GPA: 10.02/12 (A-)
 
 # Skills
 
-## Hard Skills:
+### Hard Skills:
 
 - 💻 **Front-end : JavaScript, TypeScript, HTML, CSS**
 - 🖥️ **Object-Oriented : C++, Python, C#, Java**
@@ -84,7 +84,7 @@ GPA: 10.02/12 (A-)
 - 📝 **Object-Oriented Programming**
 - 🌐 **Cryptography**
 
-## Soft Skills:
+### Soft Skills:
 
 - 🧑‍💼 Hard-Working
 - 📚 Curious
@@ -93,6 +93,8 @@ GPA: 10.02/12 (A-)
   <br />
 
 # Interests
+
+Include but not limited too...
 
 - 🎶 Music
 - ⛹️ Sports

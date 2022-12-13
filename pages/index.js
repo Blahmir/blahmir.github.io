@@ -29,8 +29,8 @@ export default function Home({ posts }) {
             <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
               Amir Abdurazak
             </h1>
-            <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              My Personal Website & Portfolio ... <br></br>of Everything!
+            <h2 className="mb-1 text-center text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
+              My Personal Website & Portfolio <br></br>of Everything!
             </h2>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
