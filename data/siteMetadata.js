@@ -2,8 +2,7 @@ const siteMetadata = {
   title: 'Amir Abdurazak - Software Engineer/Student/Entrepreneur',
   author: 'Amir Abdurazak',
   headerTitle: 'Amir Abdurazak',
-  description:
-    'My personal website and portfolio, much thanks to Raphaël Chelly for the base format!.',
+  description: 'My personal website and portfolio!',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: '  https://blahmir.github.io/',
