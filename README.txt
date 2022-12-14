@@ -1,4 +1,4 @@
-![raph-www-banner](/public/static/images/twitter-card.png)
+![amir-www-banner](/public/static/images/amir-logo.png)
 
 # Amir's personal website (https://blahmir.github.io)
 
