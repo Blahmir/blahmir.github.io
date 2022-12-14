@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blahmir.github.io/sitemap.xml
+Sitemap: https://amirabdurazak.com/sitemap.xml
