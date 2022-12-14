@@ -45,6 +45,10 @@
   </url>
 
   <url>
+    <loc> https://blahmir.github.io//tags/personal-website</loc>
+  </url>
+
+  <url>
     <loc> https://blahmir.github.io//tags/projects</loc>
   </url>
 
@@ -58,9 +62,5 @@
 
   <url>
     <loc> https://blahmir.github.io//tags/story</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/website</loc>
   </url>
 </urlset>

@@ -8,7 +8,7 @@
       <managingEditor>amirabdurazak@gmail.com (Amir Abdurazak)</managingEditor>
       <webMaster>amirabdurazak@gmail.com (Amir Abdurazak)</webMaster>
       <lastBuildDate>Mon, 31 Oct 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="  https://blahmir.github.io//tags/website/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="  https://blahmir.github.io//tags/personal-website/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>  https://blahmir.github.io//blog/why-every-programmer-needs-a-personal-website</guid>
@@ -17,7 +17,7 @@
     <description>Having a personal website is important for programmers because it allows them to showcase their skills and experience to potential employers or clients.</description>
     <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
     <author>amirabdurazak@gmail.com (Amir Abdurazak)</author>
-    <category>Story</category><category>Next-js</category><category>WebSite</category>
+    <category>Story</category><category>Next-js</category><category>Personal-Website</category>
   </item>
 
     </channel>
