@@ -5,8 +5,8 @@
       <link>  https://blahmir.github.io//blog</link>
       <description>My personal website and portfolio!</description>
       <language>en-us</language>
-      <managingEditor>amirabdurazak@gmail.com (Amir Abdurazak)</managingEditor>
-      <webMaster>amirabdurazak@gmail.com (Amir Abdurazak)</webMaster>
+      <managingEditor>amir@amirabdurazak.com (Amir Abdurazak)</managingEditor>
+      <webMaster>amir@amirabdurazak.com (Amir Abdurazak)</webMaster>
       <lastBuildDate>Sun, 15 May 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="  https://blahmir.github.io//tags/qt/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>  https://blahmir.github.io//blog/projects/oasis-pro</link>
     <description>In 2022, my group members and I created a simulated stimulation medical device with QT. Working together we were able to implement all its features and displayed it through a graphical interface...</description>
     <pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate>
-    <author>amirabdurazak@gmail.com (Amir Abdurazak)</author>
+    <author>amir@amirabdurazak.com (Amir Abdurazak)</author>
     <category>Projects</category><category>Agile</category><category>QT</category>
   </item>
 

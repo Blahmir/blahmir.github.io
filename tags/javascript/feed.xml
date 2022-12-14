@@ -5,8 +5,8 @@
       <link>  https://blahmir.github.io//blog</link>
       <description>My personal website and portfolio!</description>
       <language>en-us</language>
-      <managingEditor>amirabdurazak@gmail.com (Amir Abdurazak)</managingEditor>
-      <webMaster>amirabdurazak@gmail.com (Amir Abdurazak)</webMaster>
+      <managingEditor>amir@amirabdurazak.com (Amir Abdurazak)</managingEditor>
+      <webMaster>amir@amirabdurazak.com (Amir Abdurazak)</webMaster>
       <lastBuildDate>Mon, 28 Nov 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="  https://blahmir.github.io//tags/javascript/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>  https://blahmir.github.io//blog/projects/gym-connect</link>
     <description>Created, built, and developed a web-based concurrent fitness centre monitoring system</description>
     <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
-    <author>amirabdurazak@gmail.com (Amir Abdurazak)</author>
+    <author>amir@amirabdurazak.com (Amir Abdurazak)</author>
     <category>Projects</category><category>Agile</category><category>QNX</category><category>Javascript</category>
   </item>
 
