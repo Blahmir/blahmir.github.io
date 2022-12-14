@@ -36,7 +36,7 @@ Assisting in front-end development with a **remote agile team**, meeting on Goog
 
 `Jan 2019 - Jul 2019`
 
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
+Coding in SQL paired with scripting for data modernization project to revamp legacy systems propegating analytic growth.
 <br />
 
 # Projects
