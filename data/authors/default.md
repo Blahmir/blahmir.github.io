@@ -1,11 +1,11 @@
 ---
 name: Amir Abdurazak
 avatar: /static/images/myAvatar.png
-occupation: Junior Analyst/Cloud Developer
+occupation: Cloud Developer
 company: Canadian Revenue Agency (CRA)
-email: amirabdurazak
+email: amir@amirabdurazak.com
 twitter: https://twitter.com/
-linkedin: https://www.linkedin.com/amirabdurazak
+linkedin: https://www.linkedin.com/in/amirabdurazak
 github: https://github.com/blahmir
 ---
 
