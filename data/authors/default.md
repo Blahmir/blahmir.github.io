@@ -16,7 +16,8 @@ Graduated with **Honours in Computer Science** at Carleton University, I am pass
 - [🎓 Education](#education)
 - [🤹🏼‍♂️ Skills](#skills)
 - [🏐 Interests](#interests)
-  <br />
+
+<br />
 
 # Experience
 
@@ -37,6 +38,7 @@ Assisting in front-end development with a **remote agile team**, meeting on Goog
 `Jan 2019 - Jul 2019`
 
 Coding in SQL paired with scripting for data modernization project to revamp legacy systems propegating analytic growth.
+
 <br />
 
 # Projects
@@ -58,7 +60,8 @@ Web-based concurrent fitness centre sensor & facility monitoring system.
 
 - Frameworks : **C - QNX Neutrino, Javascript (React.JS, Node.JS)**
 - Design : **Agile Design, UML Diagrams**
-  <br />
+
+<br />
 
 # Education
 
@@ -67,7 +70,8 @@ Web-based concurrent fitness centre sensor & facility monitoring system.
 `Sept 2018 - Apr 2023 (Expected)`
 
 Obtained B.C.S. Honours in Computer Science (Computer & Internet Security Stream)
-GPA: 10.02/12 (A-)
+**GPA: 10.02/12 (A-)**
+
 <br />
 
 # Skills
@@ -90,7 +94,8 @@ GPA: 10.02/12 (A-)
 - 📚 Curious
 - 🎨 Creative
 - 🤝🏼 Team Oriented
-  <br />
+
+<br />
 
 # Interests
 
