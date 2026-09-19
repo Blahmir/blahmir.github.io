@@ -1,66 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc> https://blahmir.github.io//about</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//blog</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io/</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//projects</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//blog/why-every-programmer-needs-a-personal-website</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//blog/projects/gym-connect</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//blog/projects/oasis-pro</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/agile</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/javascript</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/next-js</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/personal-website</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/projects</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/qnx</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/qt</loc>
-  </url>
-
-  <url>
-    <loc> https://blahmir.github.io//tags/story</loc>
-  </url>
+  <url><loc>https://blahmir.github.io/</loc></url>
+  <url><loc>https://blahmir.github.io/projects/</loc></url>
+  <url><loc>https://blahmir.github.io/projects/gym-connect/</loc></url>
+  <url><loc>https://blahmir.github.io/projects/oasis-pro/</loc></url>
 </urlset>
