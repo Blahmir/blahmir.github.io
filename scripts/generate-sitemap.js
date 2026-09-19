@@ -1,67 +1,49 @@
 const fs = require('fs')
-const globby = require('globby')
+const path = require('path')
 const matter = require('gray-matter')
-const prettier = require('prettier')
-const siteMetadata = require('../data/siteMetadata')
 
-;(async () => {
-  const prettierConfig = await prettier.resolveConfig('./.prettierrc.js')
-  const pages = await globby([
-    'pages/*.js',
-    'pages/*.tsx',
-    'data/blog/**/*.mdx',
-    'data/blog/**/*.md',
-    'public/tags/**/*.xml',
-    '!pages/_*.js',
-    '!pages/_*.tsx',
-    '!pages/api',
-  ])
+const contentFolders = ['blog', 'journal']
 
-  const sitemap = `
-        <?xml version="1.0" encoding="UTF-8"?>
-        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-            ${pages
-              .map((page) => {
-                // Exclude drafts from the sitemap
-                if (page.search('.md') >= 1 && fs.existsSync(page)) {
-                  const source = fs.readFileSync(page, 'utf8')
-                  const fm = matter(source)
-                  if (fm.data.draft) {
-                    return
-                  }
-                  if (fm.data.canonicalUrl) {
-                    return
-                  }
-                }
-                const path = page
-                  .replace('pages/', '/')
-                  .replace('data/blog', '/blog')
-                  .replace('public/', '/')
-                  .replace('.js', '')
-                  .replace('.tsx', '')
-                  .replace('.mdx', '')
-                  .replace('.md', '')
-                  .replace('/feed.xml', '')
-                const route = path === '/index' ? '' : path
+function collectEntries() {
+  return contentFolders
+    .flatMap((source) => {
+      const root = path.join(process.cwd(), 'data', source)
+      if (!fs.existsSync(root)) return []
 
-                if (page.search('pages/404.') > -1 || page.search(`pages/blog/[...slug].`) > -1) {
-                  return
-                }
-                return `
-                        <url>
-                            <loc>${siteMetadata.siteUrl}${route}</loc>
-                        </url>
-                    `
-              })
-              .join('')}
-        </urlset>
-    `
+      const walk = (directory) =>
+        fs.readdirSync(directory, { withFileTypes: true }).flatMap((item) => {
+          const absolutePath = path.join(directory, item.name)
+          if (item.isDirectory()) return item.name === 'private' ? [] : walk(absolutePath)
+          if (!/\.mdx?$/.test(item.name)) return []
 
-  const formatted = prettier.format(sitemap, {
-    ...prettierConfig,
-    parser: 'html',
-  })
+          const { data } = matter(fs.readFileSync(absolutePath, 'utf8'))
+          if (data.draft || data.status === 'draft' || data.status === 'private') return []
+          return [
+            {
+              date: new Date(data.date || 0).getTime(),
+              source,
+              slug: path.relative(root, absolutePath).replace(/\\/g, '/').replace(/\.mdx?$/, ''),
+              isProject: Array.isArray(data.tags) && data.tags.includes('Projects'),
+            },
+          ]
+        })
 
-  // eslint-disable-next-line no-sync
-  fs.writeFileSync('public/sitemap.xml', formatted)
-})()
+      return walk(root)
+    })
+    .sort((a, b) => b.date - a.date)
+}
+
+const baseUrl = 'https://blahmir.github.io'
+const entries = collectEntries()
+const projectRoutes = entries
+  .filter((entry) => entry.source === 'blog' && entry.isProject)
+  .map((entry) => `/projects/${entry.slug.split('/').at(-1)}/`)
+const routes = [
+  '/',
+  '/projects/',
+  ...projectRoutes,
+]
+const urls = routes.map((route) => `  <url><loc>${baseUrl}${route}</loc></url>`).join('\n')
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`
+
+fs.writeFileSync(path.join(process.cwd(), 'public', 'sitemap.xml'), sitemap)
